@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://painting-contractor-houston-tx.netlify.app/sitemap.xml
